@@ -8,7 +8,7 @@ on:
     inputs:
       ufl_ref:
         description: "UFL git ref to checkout"
-        default: "ufl_legacy"
+        default: "main"
         type: string
       test_pypi_publish:
         description: "Publish to Test PyPi (true | false)"
@@ -23,7 +23,7 @@ on:
     inputs:
       ufl_ref:
         description: "UFL git ref to checkout"
-        default: "ufl_legacy"
+        default: "main"
         type: string
       test_pypi_publish:
         description: "Publish to Test PyPi (true | false)"
