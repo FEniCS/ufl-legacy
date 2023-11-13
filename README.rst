@@ -5,9 +5,8 @@ UFL legacy - Unified Form Language
 This is an archive of a legacy version of UFL that is the final version that can
 be used with legacy FEniCS. It can be installed with:
 
-```
-pip install fenics-ufl-legacy
-```
+..  code-block:: bash
+    pip install fenics-ufl-legacy
 
 The Unified Form Language (UFL) is a domain specific language for
 declaration of finite element discretizations of variational forms. More
