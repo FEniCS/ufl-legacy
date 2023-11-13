@@ -5,7 +5,7 @@ UFL legacy - Unified Form Language
 This is an archive of a legacy version of UFL that is the final version that can
 be used with legacy FEniCS. It can be installed with:
 
-```bash
+```
 pip install fenics-ufl-legacy
 ```
 
